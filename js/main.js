@@ -5,4 +5,4 @@ const colorePreferito = prompt("Qual è il tuo colore preferito?");
 
 // console.warn(nomeUtente + " " + cognomeUtente + " " + colorePreferito + " " + 21 );
 
-console.warn(`${nomeUtente} ${cognomeUtente} ${colorePreferito} 21`);
+alert(`${nomeUtente} ${cognomeUtente} ${colorePreferito} 21`);
